@@ -24,7 +24,7 @@
     "S3": {
       "Type": "AWS::S3::Bucket",
       "Properties": {
-        "BucketName": "wp-xxxxxxxxxxx"
+        "BucketName": "wp-tcoyle0825-adv-cf-101"
       }
     }
   }
