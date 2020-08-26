@@ -12,27 +12,25 @@
 	},
 	"Mappings": {
 		"RegionMap": {
-			"us-east-1"     : { "AMALINUX": "ami-0080e4c5bc078760e" },
-			"us-east-2"     : { "AMALINUX": "ami-0cd3dfa4e37921605" },
+			"us-east-1"     : { "AMALINUX": "ami-02354e95b39ca8dec" },
+			"us-east-2"     : { "AMALINUX": "ami-07c8bc5c1ce9598c3" },
 
 			"us-west-1"     : { "AMALINUX": "ami-0ec6517f6edbf8044" },
-			"us-west-2"     : { "AMALINUX": "ami-01e24be29428c15b2" },
+			"us-west-2"     : { "AMALINUX": "ami-0873b46c45c11058d" },
 
-      "sa-east-1"     : {	"AMALINUX": "ami-05145e0b28ad8e0b2"	},
-			"ca-central-1"  : { "AMALINUX": "ami-07423fb63ea0a0930" },
+      "sa-east-1"     : {	"AMALINUX": "ami-018ccfb6b4745882a"	},
+			"ca-central-1"  : { "AMALINUX": "ami-013d1df4bcea6ba95" },
 
-			"eu-west-1"     : { "AMALINUX": "ami-08935252a36e25f85" },
-			"eu-west-2"     : { "AMALINUX": "ami-01419b804382064e4"	},
-      "eu-west-3"     : { "AMALINUX": "ami-0dd7e7ed60da8fb83"	},
-      "eu-central-1"  : { "AMALINUX": "ami-0cfbf4f6db41068ac" },
+			"eu-west-1"     : { "AMALINUX": "ami-07d9160fa81ccffb5" },
+			"eu-west-2"     : { "AMALINUX": "ami-0a13d44dccf1f5cf6"	},
+      "eu-west-3"     : { "AMALINUX": "ami-093fa4c538885becf"	},
+      "eu-central-1"  : { "AMALINUX": "ami-0c115dbd34c69a004" },
 
-			"ap-southeast-1": {	"AMALINUX": "ami-05b3bcf7f311194b3" },
-			"ap-southeast-2": {	"AMALINUX": "ami-02fd0b06f06d93dfc"	},
-      "ap-northeast-1": {	"AMALINUX": "ami-00a5245b4816c38e6"	},
-			"ap-northeast-2": {	"AMALINUX": "ami-00dc207f8ba6dc919"	},
-      "ap-south-1"    : {	"AMALINUX": "ami-0ad42f4f66f6c1cc9"	},
-
-      "cn-north-1"    : {	"AMALINUX": "ami-8e6aa0e3"        	}
+			"ap-southeast-1": {	"AMALINUX": "ami-0cd31be676780afa7" },
+			"ap-southeast-2": {	"AMALINUX": "ami-0ded330691a314693"	},
+      "ap-northeast-1": {	"AMALINUX": "ami-0cc75a8978fbbc969"	},
+			"ap-northeast-2": {	"AMALINUX": "ami-0bd7691bf6470fe9c"	},
+      "ap-south-1"    : {	"AMALINUX": "ami-0bd7691bf6470fe9c"	},
 		},
 
 
