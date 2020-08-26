@@ -15,10 +15,9 @@ Resources:
   EC2:
     Type: AWS::EC2::Instance
     Properties:
-      ImageId: ami-0080e4c5bc078760e # Linux (1), N.Virginia - Sept 2016
+      ImageId: ami-02354e95b39ca8dec # Linux (2), N.Virginia - August 2020
       InstanceType: t2.micro
   S3:
     Type: "AWS::S3::Bucket"
     Properties:
       BucketName: wp-xxxxxxxxxxx # replace xxxxxxxxxxx with random
-

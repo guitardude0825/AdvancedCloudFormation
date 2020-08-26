@@ -17,7 +17,7 @@
     "EC2": {
       "Type": "AWS::EC2::Instance",
       "Properties": {
-        "ImageId": "ami-0080e4c5bc078760e",
+        "ImageId": "ami-02354e95b39ca8dec",
         "InstanceType": "t2.micro"
       }
     },
@@ -29,4 +29,3 @@
     }
   }
 }
-
